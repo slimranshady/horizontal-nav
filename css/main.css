@@ -1,0 +1,25 @@
+html {
+	box-sizing: border-box;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
+
+html {
+  background-color: #dbd6d0;
+}
+h1 {
+  font-family: 'Bevan', cursive;
+}
+
+header {
+  background-color: #79766f;
+  text-align: center;
+  color: #fff;
+}
+
+nav {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+}
