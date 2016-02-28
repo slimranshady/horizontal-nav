@@ -33,7 +33,7 @@ nav {
 }
 
 li {
-  display: block;
+  display: inline-block;
   background-color: #6d3a36;
   padding: 1em;
   border-radius: .5em;
